@@ -11,15 +11,15 @@
 
 ## Useful conversation notes:
 On why staging environment and the issues with it
-	-  https://web.archive.org/web/20210513173859/https://docs.featurepeek.com/configuring-peek-yml/
-	- [https://softwareengineeringdaily.com/wp-content/uploads/2020/07/SED1095-FeaturePeek.pdf](https://softwareengineeringdaily.com/wp-content/uploads/2020/07/SED1095-FeaturePeek.pdf)
-	- [https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
-	- [https://news.ycombinator.com/item?id=20566785](https://news.ycombinator.com/item?id=20566785)
-	- [https://www.bunnyshell.com/blog/staging-environment-bottleneck-solutions](https://www.bunnyshell.com/blog/staging-environment-bottleneck-solutions) 
-	- [https://refactoring.fm/p/do-you-need-staging](https://refactoring.fm/p/do-you-need-staging) 
-	- [https://news.ycombinator.com/item?id=30899362](https://news.ycombinator.com/item?id=30899362)
-	- [https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f)
-	- [https://medium.com/opendoor-labs/deep-dive-testing-a-microservice-architecture-with-qa-environments-cd338648c37b](https://medium.com/opendoor-labs/deep-dive-testing-a-microservice-architecture-with-qa-environments-cd338648c37b)
+-  https://web.archive.org/web/20210513173859/https://docs.featurepeek.com/configuring-peek-yml/
+- [https://softwareengineeringdaily.com/wp-content/uploads/2020/07/SED1095-FeaturePeek.pdf](https://softwareengineeringdaily.com/wp-content/uploads/2020/07/SED1095-FeaturePeek.pdf)
+- [https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
+- [https://news.ycombinator.com/item?id=20566785](https://news.ycombinator.com/item?id=20566785)
+- [https://www.bunnyshell.com/blog/staging-environment-bottleneck-solutions](https://www.bunnyshell.com/blog/staging-environment-bottleneck-solutions) 
+- [https://refactoring.fm/p/do-you-need-staging](https://refactoring.fm/p/do-you-need-staging) 
+- [https://news.ycombinator.com/item?id=30899362](https://news.ycombinator.com/item?id=30899362)
+- [https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f)
+- [https://medium.com/opendoor-labs/deep-dive-testing-a-microservice-architecture-with-qa-environments-cd338648c37b](https://medium.com/opendoor-labs/deep-dive-testing-a-microservice-architecture-with-qa-environments-cd338648c37b)
 	
 ##  Todos
 -   reconfirm our use case with Max
