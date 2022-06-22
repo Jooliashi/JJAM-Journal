@@ -2,6 +2,8 @@
 -   took a look at the project proposal example and tried to build our narrative to be close to that format
 -   tried to find more real world example that support review app/staging environment for frontend applicationd deployment
 -   made a comparison table for all the review as a service applications, also commonly called EaaS
+-   summarized main takeaways from comparison table about existing as-a-service solutions
+-   research more about alternative approaches to a staging environment and review apps
 
 ## problems collected
 -  are staging environment necessary to begin with?
@@ -20,7 +22,10 @@ On why staging environment and the issues with it
 - [https://news.ycombinator.com/item?id=30899362](https://news.ycombinator.com/item?id=30899362)
 - [https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f)
 - [https://medium.com/opendoor-labs/deep-dive-testing-a-microservice-architecture-with-qa-environments-cd338648c37b](https://medium.com/opendoor-labs/deep-dive-testing-a-microservice-architecture-with-qa-environments-cd338648c37b)
+- https://abseil.io/resources/swe-book/html/ch14.html
+- https://artsy.github.io/blog/2020/08/21/review-apps-post/
+- https://www.heavybit.com/library/podcasts/jamstack-radio/ep-94-elevating-review-environments-with-colin-chartier-of-webapp-io/
 	
 ##  Todos
 -   reconfirm our use case with Max
--   research more about alternative approaches to a staging environment
+-   flesh out pros/cons of alternative approaches we've found and brainstorm potential use cases/what companies might use them
