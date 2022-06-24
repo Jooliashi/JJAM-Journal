@@ -8,12 +8,13 @@
 - Choosing between GitHub Apps vs. GitHub Actions, what would be the implications and limitations of using one or the other in terms of our project's features/support level/use case?
 
 ## Interesting/Useful links:
-https://jasonet.co/posts/probot-app-or-github-action/
-https://jasonet.co/posts/probot-app-or-github-action-v2/
-- For deployment practice with GA:
-https://www.thangphan.xyz/posts/how-to-deploy-a-nextjs-app-to-aws-ec2/
-https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-amazon-elastic-container-service
-https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/
+- https://jasonet.co/posts/probot-app-or-github-action/
+- https://jasonet.co/posts/probot-app-or-github-action-v2/
+
+For deployment practice with GA:
+- https://www.thangphan.xyz/posts/how-to-deploy-a-nextjs-app-to-aws-ec2/
+- https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-amazon-elastic-container-service
+- https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/
 	
 ##  Todos/Next Steps
 -   continue prototyping/diagramming architecture for our MVP
