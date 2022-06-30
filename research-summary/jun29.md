@@ -31,4 +31,5 @@
   - Starting off with app built using Next.js framework, but could explore others as well (i.e. Gatsby)
   - Based off potential customer having an app that fetches data from database via an API call, we could add functionality like this to our Next app, and deploy that
   - We could include the use of environment variables within the app code to explore that further as well
+  - We could also try using Github Actions to deploy the Next app to Lambda (there's a tutorial for this as well that we took a brief look at, linked above)
 - Continue exploring implementation of other pieces of our project, i.e. storing each of these deployed review apps, building out dashboard, how we should access user's AWS account to create IAM credentials/provision resources for them, etc.
