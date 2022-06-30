@@ -22,6 +22,7 @@
 - https://backbencher.dev/articles/hosting-nextjs-aws-lambda-serverless
 - https://blog.logrocket.com/deploying-nextjs-aws-serverless-next-js/
 - https://dev.to/dabit3/next-js-ci-cd-on-aws-with-github-actions-3502
+- https://github.com/serverless-nextjs/serverless-next.js
 	
 ##  Todos/Next Steps
 - In light of SSR route now not working with deployed Next.js app, look further into source of issues there
