@@ -6,3 +6,4 @@
   - [June 27, 2022](./research-summary/jun27.md)
   - [June 28, 2022](./research-summary/jun28.md)
   - [June 29, 2022](./research-summary/jun29.md)
+  - [June 30, 2022](./research-summary/jun30.md)
