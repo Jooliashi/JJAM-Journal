@@ -15,7 +15,7 @@
 - There were a few nuances that proved a bit tricky iterating through a space-delineated list in bash and running commands for each item in the list
 - Testing workflow file changes can get a bit tedious/messy, particularly when testing the workflow for deleting a preview app, as this required ensuring some preview apps were first created for our PRs, as well as a cycle of closing PRs and subsequently re-opening them (in order to be able to close them again to test a change)
 
-### Todos
+## Todos
 - Finish working on functionality to delete preview apps for a particular pull request
 - Once we are confident in workflow for deleting preview apps for one pull request, we can test out full flow with `bubble destroy` to delete preview apps for all pull requests 
 - Since we're potentially adding two new workflows, these will need to be added to the user's workflows folder upon `bubble init` as well 
