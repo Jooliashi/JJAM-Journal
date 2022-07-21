@@ -17,3 +17,4 @@
   - [July 13, 2022](./research-summary/jul13.md)
   - [July 18, 2022](./research-summary/jul18.md)
   - [July 19, 2022](./research-summary/jul19.md)
+  - [July 20, 2022](./research-summary/jul20.md)
