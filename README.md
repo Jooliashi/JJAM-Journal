@@ -21,3 +21,4 @@
   - [July 22, 2022](./research-summary/jul22.md)
   - [July 25, 2022](./research-summary/jul25.md)
   - [July 26, 2022](./research-summary/jul26.md)
+  - [July 27, 2022](./research-summary/jul27.md)
