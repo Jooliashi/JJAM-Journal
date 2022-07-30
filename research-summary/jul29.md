@@ -1,4 +1,4 @@
-##  Meeting w/Daniel
+##  Meeting w/ Daniel
 - Questions for Daniel:
   - How detailed should we get about certain topics/what should we expect audience to know, e.g. do we need to explain specifically how workflows work when we discuss GitHub Actions?
 	  - easier to determine in a presentation format when things are going too long or we’re getting into too much detail
